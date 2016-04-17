@@ -3,7 +3,7 @@ Nomad tech culture + music projects
 
 
 PS: References for Onos Lyras:
-http://www.orpheus-verlag.de/html/anfange_der_musik.html
-https://www.wikiwand.com/de/Martin_Vogel
-http://www.nzz.ch/charakterkopf-1.18218686
-http://www.neme.org/1700/revisiting-inarticulacy
+- http://www.orpheus-verlag.de/html/anfange_der_musik.html
+- https://www.wikiwand.com/de/Martin_Vogel
+- http://www.nzz.ch/charakterkopf-1.18218686
+- http://www.neme.org/1700/revisiting-inarticulacy
